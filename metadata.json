@@ -1,0 +1,6 @@
+{
+  "name": "Folha Viva - Sistema de Gestão",
+  "description": "Plataforma de gestão integrada com controle operacional, segurança e arquitetura modular.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
